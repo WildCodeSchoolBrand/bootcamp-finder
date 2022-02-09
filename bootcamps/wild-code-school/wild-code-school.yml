@@ -1,0 +1,96 @@
+description: "Wild Code School is a leading European tech school offering lifelong learning programs at 20+ campuses, remotely or at company’s offices. Our blended, project-based, hands-on teaching approach brings together the power of our online learning platform and the network of 50+ full-time dedicated instructors. We believe that learning will become the major human occupation. We support that vision by encouraging a supportive & joyful learning environment. Passion, innovation and humanity are the values dear to our international community of 5.000+ students and alumni. We are more than just a coding bootcamp!"
+display_name: Wild Code School
+founded_year: 2013
+meta-description: More about Wild Code School's training programs in web development and data analysis.
+primary_email: contact@wildcodeschool.com
+programs:
+ web-development-course:
+    admissions: Everyone is welcome at Wild Code School. There is no prerequisite, despite being 18 years old or more, and being motivated. Take our application process to join in!
+    cities:
+    - berlin
+    - biarritz
+    - bordeaux
+    - la loupe
+    - lille
+    - lisbon
+    - lyon
+    - nantes
+    - orleans
+    - paris
+    - reims
+    - strasbourg
+    - toulouse
+    - tours
+    - remote en
+    - remote fr
+    commitment: full-time
+    cost_description: from € 5,000 to € 8,000 (depending on your location)
+    description: "Join our intensive web development course! Become a web developer in just 5 months and learn to code in JavaScript or PHP. Our intensive professional training course is focusing on a project-based pedagogy where our students can work for real stakes such as during hackathons with our partners, or during projects for real companies! For more information, feel free to check: https://bit.ly/3gzlG3L"
+    display_name: Web development course
+    duration: 5
+    duration_units: months
+    financing: true
+    guarantee: "At the end of your training, you will not only be able to write readable and sustainable code, but you will also have the agility to organize your tech watch, continue to train yourself, and keep learning other technologies and new languages."
+    outcomes_verified: true
+    placement: Undisclosed
+    reports_outcomes: true
+    scholarships: Some scholarships are available according to the campus you have chosen. Feel free to check our website for more information: https://bit.ly/34tWRnp
+    topics:
+    - javascript
+    - php
+    - html
+    - css
+    - react
+    - node-js
+    - symfony
+    - java
+    - angular
+    - C#
+    - asp-net
+    - python
+    - django
+    tuition: 5,000 to 8,000 (depending on your location)
+    tuition_units: "EUR"
+  data-analysis-course:
+    admissions: Everyone is welcome at Wild Code School. There is no prerequisite, despite being 18 years old or more, and being motivated. Take our application process to join in!
+    cities:
+    - berlin
+    - bordeaux
+    - lille
+    - lisbon
+    - lyon
+    - nantes
+    - paris
+    - remote fr
+    commitment: full-time
+    cost_description: from € 5,000 to € 8,000 (depending on your location)
+    description: "Join our 5-month intensive data analysis course! Become a data analyst and develop cutting-edge technical data skills by learning SQL, Python, Machine Learning and more. Our intensive professional training course is focusing on a project-based pedagogy where our students can work for real stakes such as during hackathons with our partners, or during projects for real companies! For more information, feel free to check: https://bit.ly/3rAY3hs"
+    display_name: Data analysis course
+    duration: 5
+    duration_units: months
+    financing: true
+    guarantee: “At the end of this 5-month data analysis course you will be able to process, collect, model and present data: Python algorithms, object-oriented programming, SQL database query, HTML scraping, RGPD understanding, geocoding, Data Science, Machine Learning, Big Data platforms, dynamic data visualizations creation and manipulation, dashboards creation with Tableau, Folium and PowerBI…”
+    outcomes_verified: true
+    placement: Undisclosed
+    reports_outcomes: true
+    scholarships: Some scholarships are available according to the campus you have chosen. Feel free to check our website for more information: https://bit.ly/34tWRnp
+    topics:
+    - algorithms
+    - python
+    - modeling
+    - sql
+    - automation
+    - dataviz
+    - html
+    - machine learning
+    - big data
+    - tableau
+    - power bi
+    tuition: 5,000 to 8,000 (depending on your location)
+    tuition_units: "EUR"
+tagline: Learn tech skills to advance your career
+facebook: wildcodeschoolofficial
+instagram: wildcodeschoolen
+linkedin: wild-code-school
+youtube: WildCodeSchool4ever
+website: https://www.wildcodeschool.com/
